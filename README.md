@@ -19,9 +19,12 @@ Here are some of the tools and languages I have experience with and use in proje
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
 <h2>📊Certifications: </h2>
--- Microsoft PL900 (https://github.com/joshmadakor1/Sentinel-Lab)
 
-- Generation pre- employment programme
+- <b>Microsoft PL900 (Microsoft fundementals) </b>
+
+- <b>Generation Data Analysis (pre- employment programme) </b>
+
+
 
 
 ### ✍️ Quote
