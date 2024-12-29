@@ -15,6 +15,8 @@ Here are some of the tools and languages I have experience with and use in proje
   - [Group project 2024](https://github.com/pearlasaree/Group-project-SQL-Python)
 - <b>Excel</b>
   - [Excel project 1](https://github.com/pearlasaree/Excel-project-1-) <b><i></b></i>
+  - [Excel project 2](https://github.com/pearlasaree/Volume-by-region-project) <b><i></b></i>
+
 - <b>PowerBI</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
