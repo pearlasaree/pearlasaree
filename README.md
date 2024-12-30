@@ -18,8 +18,7 @@ Here are some of the tools and languages I have experience with and use in proje
   - [Excel project 2](https://github.com/pearlasaree/Volume-by-region-project) <b><i></b></i>
 
 - <b>PowerBI</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+
 <h2>📊Certifications: </h2>
 
 - <b>Microsoft PL900 (Microsoft fundementals) </b>
