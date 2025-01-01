@@ -18,6 +18,9 @@ Here are some of the tools and languages I have experience with and use in proje
   - [Excel project 2](https://github.com/pearlasaree/Volume-by-region-project) <b><i></b></i>
 
 - <b>PowerBI</b>
+    - [Power BI Project 1](https://github.com/pearlasaree/Data-professional-survey-) <b><i></b></i>
+
+
 
 <h2>📊Certifications: </h2>
 
